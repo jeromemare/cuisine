@@ -1,10 +1,12 @@
 == Cake du Potager
 
-Source : http://www.cuisineactuelle.fr/recettes/cake-du-potager-56685[Cuisine actuelle]
-Durée : 30min
-Cuisson : 1h
+- Source : http://www.cuisineactuelle.fr/recettes/cake-du-potager-56685[Cuisine actuelle]
+
+- Durée : 30min
+- Cuisson : 1h
 
 Ingrédients pour 4 personnes
+
 - 5 oeufs
 - 280 g de farine
 - 200 g de beurre pommade + 20 g pour le moule
